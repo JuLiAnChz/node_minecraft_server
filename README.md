@@ -31,6 +31,8 @@ This project is created for educational purposes only. It demonstrates:
 - Clean Architecture
 
 ## 🏗️ Project Structure
+
+```plaintext file="tree.txt"
 src/
 ├── domain/         # Core business rules and entities
 ├── application/    # Application business rules
@@ -38,6 +40,7 @@ src/
 └── interfaces/     # Entry points and controllers
 └── assets/         # Static assets (images, sounds, etc)
 └── main.ts         # Entry point for the server
+```
 
 ## 🚦 Getting Started
 
